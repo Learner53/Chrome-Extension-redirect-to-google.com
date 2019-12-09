@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Match with videos",
-  "description": "If matches with videos and have meta tag with name='description'",
+  "description": "If matches with videos or have meta tag with name='description'",
   "version": "1.0",
   "content_scripts": [
     {
